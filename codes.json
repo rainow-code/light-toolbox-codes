@@ -1,3 +1,8 @@
 [
-
+ {
+  "hash": "838c2436cbc7c899bbf606aa4b62d4309bd84442c53861a4a941a5706d19cfcf",
+  "plan": "credits",
+  "used": false,
+  "order": "test_manual_1"
+ }
 ]
